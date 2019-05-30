@@ -7,6 +7,6 @@
   padding: 4px;
 }
 
-.col {
-  background-color: lightblue;
+#bottompanel {
+  float: bottom;
 }
