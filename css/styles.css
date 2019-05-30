@@ -1,0 +1,7 @@
+.sidebar {
+  width: 20%;
+  float: left;
+  background-color: #ecf2f9;
+  border: 2px solid lightblue;
+  margin:10px;
+}
