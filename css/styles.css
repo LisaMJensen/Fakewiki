@@ -8,5 +8,12 @@
 }
 
 #bottompanel {
-  float: bottom;
+
+  ;
+}
+
+.left-image{
+  float: left;
+  height: 300px;
+  width: auto;
 }
